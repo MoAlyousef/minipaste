@@ -1,0 +1,15 @@
+[package]
+name = "minipaste"
+version = "0.1.0"
+edition = "2021"
+categories = ["development-tools"]
+documentation = "https://docs.rs/minipaste"
+keywords = ["macros"]
+license = "MIT"
+repository = "https://github.com/MoAlyousef/minipaste"
+
+[lib]
+proc-macro = true
+
+[dependencies]
+proc-macro2 = "1"
