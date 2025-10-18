@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 categories = ["development-tools"]
 documentation = "https://docs.rs/minipaste"
+description = "A minimal paste macro for Rust"
 keywords = ["macros"]
 license = "MIT"
 repository = "https://github.com/MoAlyousef/minipaste"
